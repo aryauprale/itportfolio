@@ -9,7 +9,7 @@ const profile = {
   email: 'upralearya@gmail.com',
   linkedin: 'https://www.linkedin.com/in/arya-u-774ba2367/', // e.g. https://www.linkedin.com/in/your-profile/
   github: 'https://github.com/aryauprale',   // e.g. https://github.com/your-username
-  resume: '/Uprale_Arya_Resume.pdf',
+  resume: 'https://itportfolio-mu.vercel.app/Uprale_Arya_Resume.pdf',
 };
 
 const projects = [
